@@ -4,11 +4,11 @@
   "created_by": "MYILibrarian",
   "title": "Las Meninas",
   "slug": "las-meninas",
-  "updated_at": "2024-12-02T19:39:18.466Z",
+  "updated_at": "2024-12-02T19:39:30.831Z",
   "updated_by": "MYILibrarian",
   "parent": "d6ef02a6-f5ae-4f24-bee5-b946d2bb60c1",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "a1c2ba4f-1a9e-4371-861d-908ad28d2537"
   }
